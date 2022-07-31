@@ -1,0 +1,18 @@
+.div-1 {
+  height: 100%;
+  position: relative;
+  text-align: center;
+  margin: auto;
+}
+
+.footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 45px;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: darkslategray;
+  opacity: 0.7;
+}

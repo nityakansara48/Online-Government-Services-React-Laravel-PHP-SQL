@@ -1,0 +1,14 @@
+export { default as Home } from "./Home";
+export { default as Navigation } from "./Navigation";
+export { default as About } from "./About";
+export { default as Login } from "./Login";
+export { default as Registration } from "./Registration";
+export { default as Contact } from "./Contact";
+export { default as Service } from "./Service";
+export { default as Blog } from "./Blog";
+export { default as Admin } from "./Admin";
+export { default as Admin_old } from "./Admin_old";
+export { default as Inspector } from "./Inspector";
+export { default as Inspector_old } from "./Inspector_old";
+export { default as Resident } from "./Resident";
+export { default as Resident_old } from "./Resident_old";
